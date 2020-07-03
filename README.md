@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ### Cambios en el Readme
 Actualizando readme desde github para probar pull desde bash
+
+Ahora hicimos un cambio desde mi repositorio local para hacer un push
